@@ -4,6 +4,7 @@
 	"description": "A dark theme for the knights",
 	"version": "0.0.1",
 	"publisher": "wizsullivan",
+	"icon": "icon.png",
 	"repository": "https://github.com/wiztemple/flames.git",
 	"engines": {
 		"vscode": "^1.39.0"
