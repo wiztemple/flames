@@ -6,7 +6,7 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 
 
 # Screenshots
-![](./screen.png)![](./screen2.png)
+![](./s2.png)![](./s.png)
 
 
 ## Feedback
