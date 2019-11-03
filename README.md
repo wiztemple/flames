@@ -1,2 +1,4 @@
-# flames
-Flames is a dark colored theme for 10x engineers
+# Flames
+Flames is a dark theme for 10x engineers.
+
+**Enjoy!**

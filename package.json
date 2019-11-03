@@ -1,0 +1,21 @@
+{
+	"name": "flames",
+	"displayName": "flames",
+	"description": "A dark theme for the knights",
+	"version": "0.0.1",
+	"publisher": "wizsullivan",
+	"repository": "https://github.com/wiztemple/flames.git",
+	"engines": {
+		"vscode": "^1.39.0"
+	},
+	"categories": [ "Themes" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "flames",
+				"uiTheme": "vs-dark",
+				"path": "./themes/flames-color-theme.json"
+			}
+		]
+	}
+}
