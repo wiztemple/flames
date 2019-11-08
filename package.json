@@ -2,13 +2,14 @@
 	"name": "flames",
 	"displayName": "flames",
 	"description": "A dark theme for the knights",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "wizsullivan",
 	"icon": "icon.png",
 	"repository": "https://github.com/wiztemple/flames.git",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
+	"keywords": [ "flames", "code", "dark", "night", "neon", "seti", "knight" ],
 	"categories": [ "Themes" ],
 	"contributes": {
 		"themes": [
